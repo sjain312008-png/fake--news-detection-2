@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load the trained ML model
-model = joblib.load("fake_news_model.pkl")
+model = joblib.load("fake_news_model .pkl")
 
 # Configure the website
 st.set_page_config(
